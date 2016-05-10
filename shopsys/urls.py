@@ -15,7 +15,17 @@ Including another URLconf
 """
 from django.conf.urls import url
 from django.contrib import admin
+from shopping import views
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
+    url(r'^index', views.index, name="index"),
+    url(r'^login', views.login, name="login"),
+    url(r'^register', views.register, name="register"),
+    url(r'^products', views.products, name="products"),
+    url(r'^single', views.single, name="single"),
+    url(r'^blog', views.blog, name="blog"),
+    url(r'^blog_single', views.blog_single, name="blog_single"),
+    url(r'^contact', views.contact, name="contact"),
+    url(r'^checkout', views.checkout, name="checkout"),
 ]
