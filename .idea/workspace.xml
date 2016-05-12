@@ -1,211 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="52fce222-319f-4dda-95f3-d2a6bd741c20" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/bootstrap/css/bootstrap-responsive.min.css" afterPath="$PROJECT_DIR$/shopping/static/bootstrap/css/bootstrap-responsive.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/bootstrap/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/shopping/static/bootstrap/css/bootstrap.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/bootstrap/img/glyphicons-halflings-white.png" afterPath="$PROJECT_DIR$/shopping/static/bootstrap/img/glyphicons-halflings-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/bootstrap/img/glyphicons-halflings.png" afterPath="$PROJECT_DIR$/shopping/static/bootstrap/img/glyphicons-halflings.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/bootstrap/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/shopping/static/bootstrap/js/bootstrap.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/compair.html" afterPath="$PROJECT_DIR$/shopping/templates/compair.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/components.html" afterPath="$PROJECT_DIR$/shopping/templates/components.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/contact.html" afterPath="$PROJECT_DIR$/shopping/templates/contact.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/faq.html" afterPath="$PROJECT_DIR$/shopping/templates/faq.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/forgetpass.html" afterPath="$PROJECT_DIR$/shopping/templates/forgetpass.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/index.html" afterPath="$PROJECT_DIR$/shopping/templates/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/legal_notice.html" afterPath="$PROJECT_DIR$/shopping/templates/legal_notice.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/login.html" afterPath="$PROJECT_DIR$/shopping/templates/login.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/normal.html" afterPath="$PROJECT_DIR$/shopping/templates/normal.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/product_details.html" afterPath="$PROJECT_DIR$/shopping/templates/product_details.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/product_summary.html" afterPath="$PROJECT_DIR$/shopping/templates/product_summary.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/products.html" afterPath="$PROJECT_DIR$/shopping/templates/products.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/register.html" afterPath="$PROJECT_DIR$/shopping/templates/register.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/special_offer.html" afterPath="$PROJECT_DIR$/shopping/templates/special_offer.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/tac.html" afterPath="$PROJECT_DIR$/shopping/templates/tac.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/amelia/bootstrap.css" afterPath="$PROJECT_DIR$/shopping/static/themes/amelia/bootstrap.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/amelia/bootstrap.min.css" afterPath="$PROJECT_DIR$/shopping/static/themes/amelia/bootstrap.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/bootshop/bootstrap.min.css" afterPath="$PROJECT_DIR$/shopping/static/themes/bootshop/bootstrap.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/businessltd/bootstrap.min.css" afterPath="$PROJECT_DIR$/shopping/static/themes/businessltd/bootstrap.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/cerulean/bootstrap.min.css" afterPath="$PROJECT_DIR$/shopping/static/themes/cerulean/bootstrap.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/css/base.css" afterPath="$PROJECT_DIR$/shopping/static/themes/css/base.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/css/bootstrap-responsive.min.css" afterPath="$PROJECT_DIR$/shopping/static/themes/css/bootstrap-responsive.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/css/font-awesome-ie7.css" afterPath="$PROJECT_DIR$/shopping/static/themes/css/font-awesome-ie7.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/css/font-awesome.css" afterPath="$PROJECT_DIR$/shopping/static/themes/css/font-awesome.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/cyborg/bootstrap.min.css" afterPath="$PROJECT_DIR$/shopping/static/themes/cyborg/bootstrap.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/font/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/shopping/static/themes/font/fontawesome-webfont.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/font/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/shopping/static/themes/font/fontawesome-webfont.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/font/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/shopping/static/themes/font/fontawesome-webfont.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/font/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/shopping/static/themes/font/fontawesome-webfont.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/font/museo_slab_300-webfont.eot" afterPath="$PROJECT_DIR$/shopping/static/themes/font/museo_slab_300-webfont.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/font/museo_slab_300-webfont.ttf" afterPath="$PROJECT_DIR$/shopping/static/themes/font/museo_slab_300-webfont.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/font/museo_slab_500-webfont.eot" afterPath="$PROJECT_DIR$/shopping/static/themes/font/museo_slab_500-webfont.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/font/museo_slab_500-webfont.ttf" afterPath="$PROJECT_DIR$/shopping/static/themes/font/museo_slab_500-webfont.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/font/proximanova-webfont.eot" afterPath="$PROJECT_DIR$/shopping/static/themes/font/proximanova-webfont.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/font/proximanova-webfont.ttf" afterPath="$PROJECT_DIR$/shopping/static/themes/font/proximanova-webfont.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/images/carousel/1.png" afterPath="$PROJECT_DIR$/shopping/static/themes/images/carousel/1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/images/carousel/2.png" afterPath="$PROJECT_DIR$/shopping/static/themes/images/carousel/2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/images/carousel/3.png" afterPath="$PROJECT_DIR$/shopping/static/themes/images/carousel/3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/images/carousel/4.png" afterPath="$PROJECT_DIR$/shopping/static/themes/images/carousel/4.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/images/carousel/5.png" afterPath="$PROJECT_DIR$/shopping/static/themes/images/carousel/5.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/images/carousel/6.png" afterPath="$PROJECT_DIR$/shopping/static/themes/images/carousel/6.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/images/carousel/7.png" afterPath="$PROJECT_DIR$/shopping/static/themes/images/carousel/7.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/images/facebook.png" afterPath="$PROJECT_DIR$/shopping/static/themes/images/facebook.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/images/headerRepeat.png" afterPath="$PROJECT_DIR$/shopping/static/themes/images/headerRepeat.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/images/ico-cart.png" afterPath="$PROJECT_DIR$/shopping/static/themes/images/ico-cart.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/images/ico/apple-touch-icon-114-precomposed.png" afterPath="$PROJECT_DIR$/shopping/static/themes/images/ico/apple-touch-icon-114-precomposed.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/images/ico/apple-touch-icon-144-precomposed.png" afterPath="$PROJECT_DIR$/shopping/static/themes/images/ico/apple-touch-icon-144-precomposed.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/images/ico/apple-touch-icon-57-precomposed.png" afterPath="$PROJECT_DIR$/shopping/static/themes/images/ico/apple-touch-icon-57-precomposed.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/images/ico/apple-touch-icon-72-precomposed.png" afterPath="$PROJECT_DIR$/shopping/static/themes/images/ico/apple-touch-icon-72-precomposed.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/images/ico/favicon.ico" afterPath="$PROJECT_DIR$/shopping/static/themes/images/ico/favicon.ico" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/images/lightbox/Close.png" afterPath="$PROJECT_DIR$/shopping/static/themes/images/lightbox/Close.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/images/lightbox/lightbox-blank.gif" afterPath="$PROJECT_DIR$/shopping/static/themes/images/lightbox/lightbox-blank.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/images/lightbox/lightbox-btn-close.gif" afterPath="$PROJECT_DIR$/shopping/static/themes/images/lightbox/lightbox-btn-close.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/images/lightbox/lightbox-btn-next.gif" afterPath="$PROJECT_DIR$/shopping/static/themes/images/lightbox/lightbox-btn-next.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/images/lightbox/lightbox-btn-prev.gif" afterPath="$PROJECT_DIR$/shopping/static/themes/images/lightbox/lightbox-btn-prev.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/images/lightbox/lightbox-ico-loading.gif" afterPath="$PROJECT_DIR$/shopping/static/themes/images/lightbox/lightbox-ico-loading.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/images/logo.png" afterPath="$PROJECT_DIR$/shopping/static/themes/images/logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/images/new.png" afterPath="$PROJECT_DIR$/shopping/static/themes/images/new.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/images/payment_methods.png" afterPath="$PROJECT_DIR$/shopping/static/themes/images/payment_methods.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/images/products/1.jpg" afterPath="$PROJECT_DIR$/shopping/static/themes/images/products/1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/images/products/10.jpg" afterPath="$PROJECT_DIR$/shopping/static/themes/images/products/10.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/images/products/11.jpg" afterPath="$PROJECT_DIR$/shopping/static/themes/images/products/11.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/images/products/12.jpg" afterPath="$PROJECT_DIR$/shopping/static/themes/images/products/12.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/images/products/13.jpg" afterPath="$PROJECT_DIR$/shopping/static/themes/images/products/13.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/images/products/2.jpg" afterPath="$PROJECT_DIR$/shopping/static/themes/images/products/2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/images/products/3.jpg" afterPath="$PROJECT_DIR$/shopping/static/themes/images/products/3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/images/products/4.jpg" afterPath="$PROJECT_DIR$/shopping/static/themes/images/products/4.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/images/products/5.jpg" afterPath="$PROJECT_DIR$/shopping/static/themes/images/products/5.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/images/products/6.jpg" afterPath="$PROJECT_DIR$/shopping/static/themes/images/products/6.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/images/products/7.jpg" afterPath="$PROJECT_DIR$/shopping/static/themes/images/products/7.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/images/products/8.jpg" afterPath="$PROJECT_DIR$/shopping/static/themes/images/products/8.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/images/products/9.jpg" afterPath="$PROJECT_DIR$/shopping/static/themes/images/products/9.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/images/products/b1.jpg" afterPath="$PROJECT_DIR$/shopping/static/themes/images/products/b1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/images/products/b2.jpg" afterPath="$PROJECT_DIR$/shopping/static/themes/images/products/b2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/images/products/b3.jpg" afterPath="$PROJECT_DIR$/shopping/static/themes/images/products/b3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/images/products/b4.jpg" afterPath="$PROJECT_DIR$/shopping/static/themes/images/products/b4.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/images/products/kindle.png" afterPath="$PROJECT_DIR$/shopping/static/themes/images/products/kindle.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/images/products/large/3.jpg" afterPath="$PROJECT_DIR$/shopping/static/themes/images/products/large/3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/images/products/large/f1.jpg" afterPath="$PROJECT_DIR$/shopping/static/themes/images/products/large/f1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/images/products/large/f2.jpg" afterPath="$PROJECT_DIR$/shopping/static/themes/images/products/large/f2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/images/products/large/f3.jpg" afterPath="$PROJECT_DIR$/shopping/static/themes/images/products/large/f3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/images/products/panasonic.jpg" afterPath="$PROJECT_DIR$/shopping/static/themes/images/products/panasonic.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/images/search.png" afterPath="$PROJECT_DIR$/shopping/static/themes/images/search.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/images/tabRepeatInactive.png" afterPath="$PROJECT_DIR$/shopping/static/themes/images/tabRepeatInactive.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/images/twitter.png" afterPath="$PROJECT_DIR$/shopping/static/themes/images/twitter.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/images/youtube.png" afterPath="$PROJECT_DIR$/shopping/static/themes/images/youtube.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/img/glyphicons-halflings-white.png" afterPath="$PROJECT_DIR$/shopping/static/themes/img/glyphicons-halflings-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/img/glyphicons-halflings.png" afterPath="$PROJECT_DIR$/shopping/static/themes/img/glyphicons-halflings.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/journal/bootstrap.min.css" afterPath="$PROJECT_DIR$/shopping/static/themes/journal/bootstrap.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/js/bootshop.js" afterPath="$PROJECT_DIR$/shopping/static/themes/js/bootshop.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/shopping/static/themes/js/bootstrap.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/js/google-code-prettify/prettify.css" afterPath="$PROJECT_DIR$/shopping/static/themes/js/google-code-prettify/prettify.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/js/google-code-prettify/prettify.js" afterPath="$PROJECT_DIR$/shopping/static/themes/js/google-code-prettify/prettify.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/js/jquery.js" afterPath="$PROJECT_DIR$/shopping/static/themes/js/jquery.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/js/jquery.lightbox-0.5.js" afterPath="$PROJECT_DIR$/shopping/static/themes/js/jquery.lightbox-0.5.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/js/less.js" afterPath="$PROJECT_DIR$/shopping/static/themes/js/less.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/less/accordion.less" afterPath="$PROJECT_DIR$/shopping/static/themes/less/accordion.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/less/alerts.less" afterPath="$PROJECT_DIR$/shopping/static/themes/less/alerts.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/less/amelia.less" afterPath="$PROJECT_DIR$/shopping/static/themes/less/amelia.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/less/amelia/bootswatch.less" afterPath="$PROJECT_DIR$/shopping/static/themes/less/amelia/bootswatch.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/less/amelia/variables.less" afterPath="$PROJECT_DIR$/shopping/static/themes/less/amelia/variables.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/less/bootshop.less" afterPath="$PROJECT_DIR$/shopping/static/themes/less/bootshop.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/less/bootshop/main.less" afterPath="$PROJECT_DIR$/shopping/static/themes/less/bootshop/main.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/less/bootshop/variables.less" afterPath="$PROJECT_DIR$/shopping/static/themes/less/bootshop/variables.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/less/bootstrap.less" afterPath="$PROJECT_DIR$/shopping/static/themes/less/bootstrap.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/less/breadcrumbs.less" afterPath="$PROJECT_DIR$/shopping/static/themes/less/breadcrumbs.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/less/button-groups.less" afterPath="$PROJECT_DIR$/shopping/static/themes/less/button-groups.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/less/buttons.less" afterPath="$PROJECT_DIR$/shopping/static/themes/less/buttons.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/less/carousel.less" afterPath="$PROJECT_DIR$/shopping/static/themes/less/carousel.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/less/classified.less" afterPath="$PROJECT_DIR$/shopping/static/themes/less/classified.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/less/close.less" afterPath="$PROJECT_DIR$/shopping/static/themes/less/close.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/less/code.less" afterPath="$PROJECT_DIR$/shopping/static/themes/less/code.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/less/component-animations.less" afterPath="$PROJECT_DIR$/shopping/static/themes/less/component-animations.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/less/dropdowns.less" afterPath="$PROJECT_DIR$/shopping/static/themes/less/dropdowns.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/less/font-awesome-ie7.less" afterPath="$PROJECT_DIR$/shopping/static/themes/less/font-awesome-ie7.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/less/font-awesome.less" afterPath="$PROJECT_DIR$/shopping/static/themes/less/font-awesome.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/less/forms.less" afterPath="$PROJECT_DIR$/shopping/static/themes/less/forms.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/less/grid.less" afterPath="$PROJECT_DIR$/shopping/static/themes/less/grid.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/less/hero-unit.less" afterPath="$PROJECT_DIR$/shopping/static/themes/less/hero-unit.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/less/labels-badges.less" afterPath="$PROJECT_DIR$/shopping/static/themes/less/labels-badges.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/less/layouts.less" afterPath="$PROJECT_DIR$/shopping/static/themes/less/layouts.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/less/mixins.less" afterPath="$PROJECT_DIR$/shopping/static/themes/less/mixins.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/less/modals.less" afterPath="$PROJECT_DIR$/shopping/static/themes/less/modals.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/less/navbar.less" afterPath="$PROJECT_DIR$/shopping/static/themes/less/navbar.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/less/navs.less" afterPath="$PROJECT_DIR$/shopping/static/themes/less/navs.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/less/pager.less" afterPath="$PROJECT_DIR$/shopping/static/themes/less/pager.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/less/pagination.less" afterPath="$PROJECT_DIR$/shopping/static/themes/less/pagination.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/less/popovers.less" afterPath="$PROJECT_DIR$/shopping/static/themes/less/popovers.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/less/progress-bars.less" afterPath="$PROJECT_DIR$/shopping/static/themes/less/progress-bars.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/less/reset.less" afterPath="$PROJECT_DIR$/shopping/static/themes/less/reset.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/less/responsive-1200px-min.less" afterPath="$PROJECT_DIR$/shopping/static/themes/less/responsive-1200px-min.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/less/responsive-767px-max.less" afterPath="$PROJECT_DIR$/shopping/static/themes/less/responsive-767px-max.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/less/responsive-768px-979px.less" afterPath="$PROJECT_DIR$/shopping/static/themes/less/responsive-768px-979px.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/less/responsive-navbar.less" afterPath="$PROJECT_DIR$/shopping/static/themes/less/responsive-navbar.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/less/responsive-utilities.less" afterPath="$PROJECT_DIR$/shopping/static/themes/less/responsive-utilities.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/less/responsive.less" afterPath="$PROJECT_DIR$/shopping/static/themes/less/responsive.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/less/scaffolding.less" afterPath="$PROJECT_DIR$/shopping/static/themes/less/scaffolding.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/less/simplex.less" afterPath="$PROJECT_DIR$/shopping/static/themes/less/simplex.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/less/simplex/bootswatch.less" afterPath="$PROJECT_DIR$/shopping/static/themes/less/simplex/bootswatch.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/less/simplex/variables.less" afterPath="$PROJECT_DIR$/shopping/static/themes/less/simplex/variables.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/less/sprites.less" afterPath="$PROJECT_DIR$/shopping/static/themes/less/sprites.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/less/tables.less" afterPath="$PROJECT_DIR$/shopping/static/themes/less/tables.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/less/thumbnails.less" afterPath="$PROJECT_DIR$/shopping/static/themes/less/thumbnails.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/less/tooltip.less" afterPath="$PROJECT_DIR$/shopping/static/themes/less/tooltip.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/less/type.less" afterPath="$PROJECT_DIR$/shopping/static/themes/less/type.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/less/utilities.less" afterPath="$PROJECT_DIR$/shopping/static/themes/less/utilities.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/less/variables.less" afterPath="$PROJECT_DIR$/shopping/static/themes/less/variables.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/less/wells.less" afterPath="$PROJECT_DIR$/shopping/static/themes/less/wells.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/readable/bootstrap.min.css" afterPath="$PROJECT_DIR$/shopping/static/themes/readable/bootstrap.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/simplex/bootstrap.min.css" afterPath="$PROJECT_DIR$/shopping/static/themes/simplex/bootstrap.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/slate/bootstrap.min.css" afterPath="$PROJECT_DIR$/shopping/static/themes/slate/bootstrap.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/spacelab/bootstrap.min.css" afterPath="$PROJECT_DIR$/shopping/static/themes/spacelab/bootstrap.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/spruce/bootstrap.css" afterPath="$PROJECT_DIR$/shopping/static/themes/spruce/bootstrap.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/spruce/bootstrap.min.css" afterPath="$PROJECT_DIR$/shopping/static/themes/spruce/bootstrap.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/superhero/bootstrap.min.css" afterPath="$PROJECT_DIR$/shopping/static/themes/superhero/bootstrap.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/switch/images/clr/amelia.png" afterPath="$PROJECT_DIR$/shopping/static/themes/switch/images/clr/amelia.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/switch/images/clr/bootshop.png" afterPath="$PROJECT_DIR$/shopping/static/themes/switch/images/clr/bootshop.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/switch/images/clr/businessltd.png" afterPath="$PROJECT_DIR$/shopping/static/themes/switch/images/clr/businessltd.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/switch/images/clr/cerulean.png" afterPath="$PROJECT_DIR$/shopping/static/themes/switch/images/clr/cerulean.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/switch/images/clr/cyborg.png" afterPath="$PROJECT_DIR$/shopping/static/themes/switch/images/clr/cyborg.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/switch/images/clr/journal.png" afterPath="$PROJECT_DIR$/shopping/static/themes/switch/images/clr/journal.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/switch/images/clr/readable.png" afterPath="$PROJECT_DIR$/shopping/static/themes/switch/images/clr/readable.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/switch/images/clr/simplex.png" afterPath="$PROJECT_DIR$/shopping/static/themes/switch/images/clr/simplex.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/switch/images/clr/slate.png" afterPath="$PROJECT_DIR$/shopping/static/themes/switch/images/clr/slate.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/switch/images/clr/spacelab.png" afterPath="$PROJECT_DIR$/shopping/static/themes/switch/images/clr/spacelab.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/switch/images/clr/spruce.png" afterPath="$PROJECT_DIR$/shopping/static/themes/switch/images/clr/spruce.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/switch/images/clr/superhero.png" afterPath="$PROJECT_DIR$/shopping/static/themes/switch/images/clr/superhero.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/switch/images/clr/united.png" afterPath="$PROJECT_DIR$/shopping/static/themes/switch/images/clr/united.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/switch/images/hideme.png" afterPath="$PROJECT_DIR$/shopping/static/themes/switch/images/hideme.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/switch/images/pattern/pattern1.png" afterPath="$PROJECT_DIR$/shopping/static/themes/switch/images/pattern/pattern1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/switch/images/pattern/pattern10.png" afterPath="$PROJECT_DIR$/shopping/static/themes/switch/images/pattern/pattern10.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/switch/images/pattern/pattern11.png" afterPath="$PROJECT_DIR$/shopping/static/themes/switch/images/pattern/pattern11.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/switch/images/pattern/pattern12.png" afterPath="$PROJECT_DIR$/shopping/static/themes/switch/images/pattern/pattern12.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/switch/images/pattern/pattern13.png" afterPath="$PROJECT_DIR$/shopping/static/themes/switch/images/pattern/pattern13.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/switch/images/pattern/pattern14.png" afterPath="$PROJECT_DIR$/shopping/static/themes/switch/images/pattern/pattern14.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/switch/images/pattern/pattern15.png" afterPath="$PROJECT_DIR$/shopping/static/themes/switch/images/pattern/pattern15.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/switch/images/pattern/pattern16.png" afterPath="$PROJECT_DIR$/shopping/static/themes/switch/images/pattern/pattern16.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/switch/images/pattern/pattern16~.png" afterPath="$PROJECT_DIR$/shopping/static/themes/switch/images/pattern/pattern16~.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/switch/images/pattern/pattern17.png" afterPath="$PROJECT_DIR$/shopping/static/themes/switch/images/pattern/pattern17.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/switch/images/pattern/pattern17~.png" afterPath="$PROJECT_DIR$/shopping/static/themes/switch/images/pattern/pattern17~.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/switch/images/pattern/pattern18.png" afterPath="$PROJECT_DIR$/shopping/static/themes/switch/images/pattern/pattern18.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/switch/images/pattern/pattern19.png" afterPath="$PROJECT_DIR$/shopping/static/themes/switch/images/pattern/pattern19.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/switch/images/pattern/pattern19~.png" afterPath="$PROJECT_DIR$/shopping/static/themes/switch/images/pattern/pattern19~.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/switch/images/pattern/pattern2.png" afterPath="$PROJECT_DIR$/shopping/static/themes/switch/images/pattern/pattern2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/switch/images/pattern/pattern20.png" afterPath="$PROJECT_DIR$/shopping/static/themes/switch/images/pattern/pattern20.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/switch/images/pattern/pattern20~.png" afterPath="$PROJECT_DIR$/shopping/static/themes/switch/images/pattern/pattern20~.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/switch/images/pattern/pattern3.png" afterPath="$PROJECT_DIR$/shopping/static/themes/switch/images/pattern/pattern3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/switch/images/pattern/pattern4.png" afterPath="$PROJECT_DIR$/shopping/static/themes/switch/images/pattern/pattern4.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/switch/images/pattern/pattern5.png" afterPath="$PROJECT_DIR$/shopping/static/themes/switch/images/pattern/pattern5.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/switch/images/pattern/pattern6.png" afterPath="$PROJECT_DIR$/shopping/static/themes/switch/images/pattern/pattern6.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/switch/images/pattern/pattern7.png" afterPath="$PROJECT_DIR$/shopping/static/themes/switch/images/pattern/pattern7.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/switch/images/pattern/pattern8.png" afterPath="$PROJECT_DIR$/shopping/static/themes/switch/images/pattern/pattern8.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/switch/images/pattern/pattern9.png" afterPath="$PROJECT_DIR$/shopping/static/themes/switch/images/pattern/pattern9.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/switch/images/styleTgl.png" afterPath="$PROJECT_DIR$/shopping/static/themes/switch/images/styleTgl.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/switch/theamswitcher.js" afterPath="$PROJECT_DIR$/shopping/static/themes/switch/theamswitcher.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/switch/themeswitch.css" afterPath="$PROJECT_DIR$/shopping/static/themes/switch/themeswitch.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/themes/united/bootstrap.min.css" afterPath="$PROJECT_DIR$/shopping/static/themes/united/bootstrap.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/shopping/templates/moban1076/说明.htm" afterPath="$PROJECT_DIR$/shopping/templates/note.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shopsys/settings.py" afterPath="$PROJECT_DIR$/shopsys/settings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shopping/admin.py" afterPath="$PROJECT_DIR$/shopping/admin.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shopping/models.py" afterPath="$PROJECT_DIR$/shopping/models.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shopping/templates/index.html" afterPath="$PROJECT_DIR$/shopping/templates/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shopping/templates/single.html" afterPath="$PROJECT_DIR$/shopping/templates/single.html" />
     </list>
     <ignored path="shopsys.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -226,12 +32,36 @@
     <favorites_list name="shopsys" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/shopping/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-153">
+              <caret line="94" column="53" selection-start-line="94" selection-start-column="53" selection-end-line="94" selection-end-column="53" />
+              <folding>
+                <element signature="e#15#43#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shopping/admin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/shopsys/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
-              <caret line="118" column="59" selection-start-line="118" selection-start-column="59" selection-end-line="118" selection-end-column="59" />
+            <state relative-caret-position="-745">
+              <caret line="71" column="45" selection-start-line="71" selection-start-column="45" selection-end-line="71" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -243,6 +73,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -252,24 +83,44 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/shopping/templates/base.html" />
-        <option value="$PROJECT_DIR$/shopping/templates/tac.html" />
+        <option value="$PROJECT_DIR$/shopping/templates/note.htm" />
+        <option value="$PROJECT_DIR$/shopping/templates/r.html" />
+        <option value="$PROJECT_DIR$/shopping/templates/test.html" />
         <option value="$PROJECT_DIR$/shopping/templates/compair.html" />
         <option value="$PROJECT_DIR$/shopping/templates/components.html" />
-        <option value="$PROJECT_DIR$/shopping/templates/contact.html" />
         <option value="$PROJECT_DIR$/shopping/templates/faq.html" />
         <option value="$PROJECT_DIR$/shopping/templates/forgetpass.html" />
-        <option value="$PROJECT_DIR$/shopping/templates/index.html" />
         <option value="$PROJECT_DIR$/shopping/templates/legal_notice.html" />
-        <option value="$PROJECT_DIR$/shopping/templates/login.html" />
         <option value="$PROJECT_DIR$/shopping/templates/normal.html" />
-        <option value="$PROJECT_DIR$/shopping/templates/note.htm" />
         <option value="$PROJECT_DIR$/shopping/templates/product_details.html" />
         <option value="$PROJECT_DIR$/shopping/templates/product_summary.html" />
-        <option value="$PROJECT_DIR$/shopping/templates/products.html" />
-        <option value="$PROJECT_DIR$/shopping/templates/register.html" />
         <option value="$PROJECT_DIR$/shopping/templates/special_offer.html" />
+        <option value="$PROJECT_DIR$/shopping/templates/tac.html" />
+        <option value="$PROJECT_DIR$/shopping/static/css/base.css" />
+        <option value="$PROJECT_DIR$/shopping/templates/base.html" />
+        <option value="$PROJECT_DIR$/templates/blog.html" />
+        <option value="$PROJECT_DIR$/templates/blog_single.html" />
+        <option value="$PROJECT_DIR$/templates/checkout.html" />
+        <option value="$PROJECT_DIR$/templates/contact.html" />
+        <option value="$PROJECT_DIR$/templates/index.html" />
+        <option value="$PROJECT_DIR$/templates/login.html" />
+        <option value="$PROJECT_DIR$/templates/products.html" />
+        <option value="$PROJECT_DIR$/templates/register.html" />
+        <option value="$PROJECT_DIR$/templates/single.html" />
+        <option value="$PROJECT_DIR$/shopping/templates/blog.html" />
+        <option value="$PROJECT_DIR$/shopping/templates/blog_single.html" />
+        <option value="$PROJECT_DIR$/shopping/templates/checkout.html" />
+        <option value="$PROJECT_DIR$/shopping/templates/contact.html" />
+        <option value="$PROJECT_DIR$/shopping/templates/register.html" />
+        <option value="$PROJECT_DIR$/shopping/views.py" />
+        <option value="$PROJECT_DIR$/shopsys/urls.py" />
+        <option value="$PROJECT_DIR$/shopping/templates/login.html" />
+        <option value="$PROJECT_DIR$/shopping/templates/products.html" />
+        <option value="$PROJECT_DIR$/shopping/templates/index.html" />
+        <option value="$PROJECT_DIR$/shopping/templates/single.html" />
         <option value="$PROJECT_DIR$/shopsys/settings.py" />
+        <option value="$PROJECT_DIR$/shopping/admin.py" />
+        <option value="$PROJECT_DIR$/shopping/models.py" />
       </list>
     </option>
   </component>
@@ -280,9 +131,29 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="-1" />
     <option name="y" value="28" />
-    <option name="width" value="1366" />
-    <option name="height" value="706" />
+    <option name="width" value="1368" />
+    <option name="height" value="707" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>HtmlUnknownTarget</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -309,6 +180,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -337,7 +209,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="shopsys" />
+              <option name="myItemId" value="shopping" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -354,26 +226,33 @@
               <option name="myItemId" value="shopping" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="settings.typescriptcompiler" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../firstdp" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/shopping/templates" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/shopping/static" />
+      <recent name="$PROJECT_DIR$/templates" />
+      <recent name="$PROJECT_DIR$/shopping/templates" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/shopping" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/shopping/templates" />
     </key>
   </component>
@@ -484,6 +363,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -633,6 +518,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="52fce222-319f-4dda-95f3-d2a6bd741c20" name="Default" comment="" />
@@ -644,10 +532,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="28" width="1366" height="706" extended-state="0" />
-    <editor active="false" />
+    <frame x="-1" y="28" width="1368" height="707" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25190258" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19908814" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -657,191 +545,319 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39964476" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/shopping/templates/moban1076/themes/js/less.js">
+    <entry file="file://$PROJECT_DIR$/shopping/templates/checkout.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-594">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="212">
+          <caret line="238" column="50" selection-start-line="238" selection-start-column="50" selection-end-line="238" selection-end-column="50" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shopping/templates/base.html">
+    <entry file="file://$PROJECT_DIR$/shopping/templates/blog_single.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-          <folding />
+        <state relative-caret-position="212">
+          <caret line="196" column="68" selection-start-line="196" selection-start-column="68" selection-end-line="196" selection-end-column="68" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shopping/static/themes/js/less.js">
+    <entry file="file://$PROJECT_DIR$/shopping/templates/blog.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="520">
+          <caret line="275" column="68" selection-start-line="275" selection-start-column="68" selection-end-line="275" selection-end-column="68" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shopping/static/bootstrap/js/bootstrap.min.js">
+    <entry file="file://$PROJECT_DIR$/shopping/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="354">
+          <caret line="36" column="41" selection-start-line="36" selection-start-column="41" selection-end-line="36" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shopping/templates/compair.html">
+    <entry file="file://$PROJECT_DIR$/shopsys/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101">
-          <caret line="83" column="49" selection-start-line="83" selection-start-column="49" selection-end-line="83" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shopping/templates/components.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101">
-          <caret line="83" column="49" selection-start-line="83" selection-start-column="49" selection-end-line="83" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shopping/templates/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="79">
-          <caret line="168" column="14" selection-start-line="168" selection-start-column="14" selection-end-line="168" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shopping/templates/faq.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="79">
-          <caret line="84" column="54" selection-start-line="84" selection-start-column="54" selection-end-line="84" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shopping/templates/forgetpass.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="82" column="100" selection-start-line="82" selection-start-column="100" selection-end-line="82" selection-end-column="100" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shopping/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="717" column="34" selection-start-line="717" selection-start-column="34" selection-end-line="717" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shopping/templates/legal_notice.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="418" column="34" selection-start-line="418" selection-start-column="34" selection-end-line="418" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shopping/templates/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="387" column="34" selection-start-line="387" selection-start-column="34" selection-end-line="387" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shopping/templates/normal.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="412" column="34" selection-start-line="412" selection-start-column="34" selection-end-line="412" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shopping/templates/note.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="65" column="58" selection-start-line="65" selection-start-column="58" selection-end-line="65" selection-end-column="58" />
-          <folding>
-            <element signature="n#style#0;n#table#0;n#center#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shopping/templates/product_details.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="753" column="39" selection-start-line="753" selection-start-column="39" selection-end-line="753" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shopping/templates/product_summary.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2957">
-          <caret line="84" column="54" selection-start-line="84" selection-start-column="54" selection-end-line="84" selection-end-column="54" />
-          <folding />
+        <state relative-caret-position="354">
+          <caret line="29" column="55" selection-start-line="29" selection-start-column="55" selection-end-line="29" selection-end-column="55" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/shopping/templates/products.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="87" column="34" selection-start-line="87" selection-start-column="34" selection-end-line="87" selection-end-column="34" />
+        <state relative-caret-position="-338">
+          <caret line="214" column="13" selection-start-line="214" selection-start-column="13" selection-end-line="214" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopping/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="93" column="45" selection-start-line="93" selection-start-column="45" selection-end-line="93" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopping/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4664">
+          <caret line="212" column="43" selection-start-line="212" selection-start-column="43" selection-end-line="212" selection-end-column="43" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shopping/templates/register.html">
+    <entry file="file://$PROJECT_DIR$/shopping/templates/single.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1009">
-          <caret line="581" column="34" selection-start-line="581" selection-start-column="34" selection-end-line="581" selection-end-column="34" />
+        <state relative-caret-position="7590">
+          <caret line="345" column="43" selection-start-line="345" selection-start-column="43" selection-end-line="345" selection-end-column="43" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shopping/templates/special_offer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="85" column="110" selection-start-line="85" selection-start-column="110" selection-end-line="85" selection-end-column="110" />
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/shopping/static/images/1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shopping/templates/tac.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-352">
-          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/shopping/static/images/b1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopping/static/images/b2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopping/static/images/b3.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopping/static/images/b4.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopping/static/images/blo.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopping/static/images/cart.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopping/static/images/close_1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopping/static/images/co.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopping/static/images/img-sprite.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopping/static/images/lo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopping/static/images/lo1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopping/static/images/lo2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopping/static/images/lo3.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopping/static/images/lo4.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopping/static/images/lo5.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopping/static/images/logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopping/static/images/p1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopping/static/images/p2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopping/static/images/p3.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopping/static/images/p4.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopping/static/images/pi1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopping/static/images/pi2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopping/static/images/pi3.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopping/static/images/pi4.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopping/static/images/pi5.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopping/static/images/pic1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopping/static/images/pic2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopping/static/images/pro.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopping/static/images/product1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopping/static/images/s1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopping/static/images/si.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopping/static/images/si1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopping/static/images/si2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopping/static/images/t1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopping/static/images/t2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopping/static/images/t3.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopping/static/images/t4.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopping/static/images/tick1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/shopsys/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="118" column="59" selection-start-line="118" selection-start-column="59" selection-end-line="118" selection-end-column="59" />
+        <state relative-caret-position="-745">
+          <caret line="71" column="45" selection-start-line="71" selection-start-column="45" selection-end-line="71" selection-end-column="45" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopping/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopping/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-153">
+          <caret line="94" column="53" selection-start-line="94" selection-start-column="53" selection-end-line="94" selection-end-column="53" />
+          <folding>
+            <element signature="e#15#43#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
