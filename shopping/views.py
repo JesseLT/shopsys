@@ -1,5 +1,8 @@
-from django.shortcuts import render
-from django.http import HttpResponseRedirect, HttpResponse
+# coding:utf-8
+from django.shortcuts import render, render_to_response
+from django.http import HttpResponseRedirect, JsonResponse, HttpResponse
+from .models import *
+import json
 
 
 # Create your views here.
@@ -11,6 +14,26 @@ def index(request):
 
 def register(request):
     return render(request, "register.html")
+
+
+def new_user(request):
+    name = request.POST["name"]
+    email = request.POST["email"]
+    pwd = request.POST["password"]
+
+    u = User(name=name, email=email, pwd=pwd)
+    u.save()
+
+    return HttpResponseRedirect("/login")
+    # return HttpResponse(name)
+
+
+def test_email(request):
+    if request.is_ajax():
+        if request.method == "POST":
+            email = request.POST["email"]
+            t = User.objects.filter(email=email)
+            return JsonResponse(len(t), safe=False)
 
 
 def blog(request):
@@ -39,3 +62,13 @@ def single(request):
 
 def checkout(request):
     return render(request, "checkout.html")
+
+
+def test(request):
+    return render(request, "test.html")
+
+
+def test_ajax(request):
+    if request.method == 'POST' and request.is_ajax():
+        name = request.POST.get('value')
+        return JsonResponse("success", safe=False)

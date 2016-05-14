@@ -6,6 +6,7 @@ from datetime import datetime
 # Create your models here.
 class Base(models.Model):
     name = models.CharField(max_length=30)
+    create_date = models.DateTimeField(auto_now_add=True)
 
     class Meta:
         abstract = True
@@ -16,6 +17,9 @@ class User(Base):
     pwd = models.CharField(max_length=50, default="88888888")
     email = models.EmailField(unique=True)
     is_exist = models.IntegerField(default=1)
+
+    def __str__(self):
+        return self.name
 
     class Meta:
         db_table = "user"
@@ -32,7 +36,6 @@ class UserInfo(models.Model):
     phone_num = models.CharField(max_length=40)
     addr = models.CharField(max_length=100)
     addr_backup = models.CharField(max_length=100)
-    register_date = models.DateTimeField(auto_now_add=True)
     info = models.TextField()
 
     class Meta:
@@ -65,11 +68,10 @@ class Product(Base):
     branch = models.ForeignKey(Brands)
     is_bestseller = models.BooleanField("设为热卖", default=False)
     is_featured = models.BooleanField("设为推荐", default=False)
-    quantity = models.IntegerField(default=1)
+    quantity = models.PositiveIntegerField(default=1)
     tags = models.CharField(help_text="产品标签，以逗号隔开！", max_length=50)
     desc = models.TextField()
     obj = models.CharField(max_length=20, choices=OBJ)
-    edit_time = models.DateTimeField(auto_now_add=True)
 
     class Meta:
         db_table = "product"
@@ -114,7 +116,7 @@ class Cart(models.Model):
 class Order(models.Model):
     user = models.ForeignKey(User)
     product = models.ForeignKey(Product)
-    deal_date = models.DateTimeField(default=datetime.now)
+    deal_date = models.DateTimeField(auto_now_add=True)
     status = models.IntegerField(default=0)
 
     class Meta:
