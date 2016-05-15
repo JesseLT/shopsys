@@ -1342,7 +1342,7 @@ a.add-re:hover{
 .error{
 	display: inline-block;
 	float: right;
-	width: 25%;
+	width: 27%;
 	text-align: left;
 	margin-top: 20px;
 }
@@ -1444,7 +1444,7 @@ a.add-re:hover{
 .account-top input[type="text"],
 .account-top textarea,.account-top input[type="password"]{
 	padding:1em;
-	width:100%;
+	width:70%;
 	background:none;
 	border: 1px solid #A09F9F;	
 	outline:none;
