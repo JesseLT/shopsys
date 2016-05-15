@@ -9,7 +9,7 @@ $(document).ready(function () {
     $("#name").blur(function () {
         var name = $(this).val();
         var error_mes = $(".name-error-mesg");
-        if (name.length < 6) {
+        if (name.length < 5) {
             name_status = false;
             $(error_mes).html("name长度应该大于6!");
             return false
