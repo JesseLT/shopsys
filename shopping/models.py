@@ -82,7 +82,7 @@ class Product(Base):
 
 class ProductImage(models.Model):
     product = models.ForeignKey(Product)
-    img = models.ImageField(upload_to="./static/images")
+    img = models.ImageField(upload_to="./static/images/product-img")
 
     class Meta:
         db_table = "product_image"

@@ -9,5 +9,4 @@ $(document).ready(function () {
         $(al[1]).attr("href", "/logout");
         $(al[1]).html("Logout");
     }
-
 });
