@@ -74,7 +74,6 @@ $(document).ready(function () {
                 }
             })
         }
-
     });
     $("#pwdcfm").blur(function () {
         var password1 = $("#pwd").val();
@@ -91,12 +90,9 @@ $(document).ready(function () {
             $(pwdcfm_error_mesg).html("√");
             $(pwdcfm_error_mesg).css("color", "green")
         }
-
     });
     $("#register-form").submit(function () {
         return name_status && pwd_status && email_status && pwdcfm_status
     });
-    $("#btn").click(function () {
-        alert("hello")
-    })
+
 });

@@ -20,7 +20,12 @@ from shopping import views
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^index', views.index, name="index"),
+
     url(r'^login', views.login, name="login"),
+    url(r'^logout', views.logout, name="logout"),
+    url(r'^user_login', views.user_login, name="user_login"),
+    url(r'^test_pwd', views.test_pwd, name="test_pwd"),
+
 
     url(r'^register', views.register, name="register"),
     url(r'^new_user', views.new_user, name="new_user"),

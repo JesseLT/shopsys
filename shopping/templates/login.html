@@ -26,10 +26,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
     <!-- start menu -->
     <link href="../static/css/memenu.css" rel="stylesheet" type="text/css" media="all"/>
     <script type="text/javascript" src="../static/js/memenu.js"></script>
-    <script>$(document).ready(function () {
-        $(".memenu").memenu();
-    });</script>
+    <script>$(document).ready(function () {$(".memenu").memenu();});$.ajaxSetup({data: {csrfmiddlewaretoken: '{{ csrf_token }}'}});</script>
     <script src="../static/js/simpleCart.min.js"></script>
+    <script src="../static/js/login.js"></script>
 </head>
 <body>
 <!--header-->
@@ -38,6 +37,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
         <div class="container">
             <div class="search">
                 <form>
+                    {% csrf_token %}
                     <input type="text" value="Search " onfocus="this.value = '';"
                            onblur="if (this.value == '') {this.value = 'Search';}">
                     <input type="submit" value="Go">
@@ -45,11 +45,10 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
             </div>
             <div class="header-left">
                 <ul>
-                    <li><a class="lock" href="login.html">Login</a></li>
+                    <li><a class="lock" href="/login">Login</a></li>
                     <li><a class="lock" href="/register">Register</a></li>
-                    <li>
-                    </li>
-
+                    <li><a class="user-status" href="/center"> {{ username }} </a></li>
+                    <li><a class="user-status" href="/logout"> {{ Logout }} </a></li>
                 </ul>
                 <div class="cart box_1">
                     <a href="/checkout">
@@ -188,7 +187,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                             </div>
                         </div>
                     </li>
-                    <li><a class="color4" href="blog.html">Blog</a></li>
+                    <li><a class="color4" href="/blog">Blog</a></li>
                     <li><a class="color6" href="/contact">Conact</a></li>
                 </ul>
             </div>
@@ -206,15 +205,17 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
         <h1>Account</h1>
         <div class="account-pass">
             <div class="col-md-8 account-top">
-                <form>
-
+                <form method="post" action="{% url 'user_login' %}" id="login-form">
+                    {% csrf_token %}
                     <div>
                         <span>Email</span>
-                        <input type="text">
+                        <input id="email-ipt" type="text" name="email" title="">
+                        <span class="error email-error" style="color: red;"></span>
                     </div>
                     <div>
                         <span>Password</span>
-                        <input type="password">
+                        <input id="pwd-ipt" type="password" name="password" title="">
+                        <span class="error pwd-error" style="color: red;"></span>
                     </div>
                     <input type="submit" value="Login">
                 </form>

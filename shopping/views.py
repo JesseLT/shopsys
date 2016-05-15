@@ -9,7 +9,11 @@ import json
 
 
 def index(request):
-    return render(request, "index.html")
+    email = request.session.get("email", "")
+    if email:
+        return render(request, "index.html", {"username": User.objects.get(email=email).name, "logout": "logout"})
+    else:
+        return render(request, "index.html")
 
 
 def register(request):
@@ -46,6 +50,31 @@ def products(request):
 
 def login(request):
     return render(request, "login.html")
+
+
+def user_login(request):
+    email = request.POST["email"]
+    if request.is_ajax() and request.method == "POST":
+        t = User.objects.filter(email=email)
+        return JsonResponse(len(t), safe=False)
+    if request.method == "POST" and not request.is_ajax():
+        request.session["email"] = email
+        return HttpResponseRedirect("/index")
+
+
+def logout(request):
+    del request.session["email"]
+    return HttpResponseRedirect("/index")
+
+
+def test_pwd(request):
+    if request.is_ajax():
+        email = request.POST["email"]
+        password = request.POST["password"]
+        if User.objects.get(email=email).pwd == password:
+            return JsonResponse(1, safe=False)
+        else:
+            return JsonResponse(0, safe=False)
 
 
 def blog_single(request):
